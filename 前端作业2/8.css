@@ -1,0 +1,28 @@
+#box{
+	margin: 0 auto;
+	/*background-color: black;*/
+	height: 220px;
+	width:450px;
+}
+#picture{
+	height: 220px;
+	width:220px;
+	margin-left: 0;
+}
+#p{
+	height: 220px;
+	width:220px;
+}
+#content{
+	margin-top: -180px;
+	margin-left: 260px;
+	width: 220px;
+	height: 220px;
+}
+#wenzi{
+	/*float: risght;*/
+	/*position: absolute;
+	right: 30px;*/
+	color: #C1C4D2;
+	font-size: 25px;
+}

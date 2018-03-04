@@ -1,0 +1,163 @@
+.all{
+	margin: 0 auto;
+	width: 550px;
+	height: 550px;
+	border: 3px solid  #7A113A;
+	border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+	background-color:#C47A90;
+
+}
+.top{
+	color：black;
+	font-family: 华文行楷;
+	font-size: 30px;
+	position: absolute;
+	top: 20px;
+	left:360px;
+}
+.yaya{
+	font-size: 30px;
+	font-family: 华文行楷;
+	float: top;
+	margin-left: 150px;
+	border:2px solid green;
+}
+.lala{
+	font-size: 30px;
+	font-family: 华文行楷;
+	float: top;
+	margin-left: 150px;
+	border:2px solid red;
+}
+.haha{
+	font-size: 30px;
+	font-family: 华文行楷;
+	float: top;
+	margin-left: 150px;
+	border:2px solid black;
+/*focus,textarea:focus{outline:none}*/
+}
+#count{
+	/*visibility:hidden;*/
+	margin-left: 150px;
+	margin-top: 40px;
+}
+.wenzi{
+	font-size:30px;
+	font-family: 华文行楷;
+	float: top;
+	margin-right: 300px;
+/*	margin-top: 40px;*/
+	position: relative;
+	top: 33px;
+}
+.tishi{
+	margin-top: -28px;
+	position: absolute;
+	left: 725px;
+	font-family: 华文行楷;
+	font-size:20px;
+	color: #444653;
+	display:none;
+}
+.button{
+	width: 320px;
+	height: 60px;
+	margin-top:28px;
+	margin-left: 120px;
+}
+.box1{
+	width: 240px;
+	height: 24px;
+	margin-left: 150px;
+	margin-top: 0;
+/*	background: red*/;
+}
+.active{
+	font-size: 20px;
+	/*text-align: center;*/
+	width:200px;
+	height: 20px;
+	background-color:#DF2170; 
+	/*vertical-align: middle;*/
+	font-style: normal;
+	/*margin-left: 100px;*/
+}
+.ps{
+	font-size: 20px;
+	/*text-align: center;*/
+	width:200px;
+	height: 20px;
+	background-color:#575757; 
+	/*vertical-align: middle;*/
+	font-style: normal;
+	/*margin-left: 100px;*/
+}
+.box2{
+	position: absolute;
+	top:250px;
+	left: 190px;
+	width:80px;
+	height: 80px;
+
+}
+.triangle_test{  
+	width:0; 
+	height:0;
+    border:80px solid; 
+    border-top-color:white;  
+    border-left-color:#7A113A; 
+   border-right-color: white;  
+   border-bottom-color:white; 
+}
+.pre{
+	font-weight: 500;
+	font-family: 华文行楷;
+	font-size: 35px;
+	position: absolute;
+	top: 30px;
+	left: 25px;
+}
+.fut{
+	font-weight: 500;
+	font-family: 华文行楷;
+	font-size: 35px;
+	position: absolute;
+	top: 30px;
+	right: 25px;
+}
+.box3{
+	position: absolute;
+	left: 14px;
+	top: 280px;
+	width: 180px;
+	height: 100px;
+	background-color: #7A113A;
+	border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.box5{
+	position: absolute;
+	right: 0px;
+	top: 250px;
+	width: 80px;
+	height: 80px;
+	background-color: red;
+}
+.box4{
+	position: absolute;
+	right: 80px;
+	top: 280px;
+	width: 180px;
+	height: 100px;
+	background-color: #7A113A;
+	border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}

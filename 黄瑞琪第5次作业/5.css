@@ -1,0 +1,59 @@
+.all{
+	height: 560px;
+	width: 400px;
+	background-color: #FFA7D7;
+	margin: 0 auto;
+	border: 4px solid black;
+	box-shadow: 6px 6px 0 0 #929294;
+}
+.jisuanji{
+	font-size: 50px;
+	color: black;
+	font-weight: 900;
+	font-family: 华文行楷;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+.name{
+	font-size: 20px;
+	font-family: 华文行楷;
+	margin-left: 300px;
+	margin-top: 100px;
+.top{
+	margin-top: 20px;
+}
+	background-color: #E46CA2;
+	z-index: 1;
+	height: 75px;
+}
+.shuru{
+	margin-left: 35px;
+	margin-top: 10px;
+	height: 45px;
+	width: 320px;
+	font-size: 20px;
+	border: 2px solid black;
+}
+.central{
+	margin-top: 20px;
+	margin-left: 30px;
+	height: 350px;
+	width: 340px;
+	background-color: #E46CA2;
+	border: 1px solid black;
+	z-index: 1;
+}
+.botton{
+	width: 60px;
+	height: 45px;
+	margin: 0 17px 20px 0;
+	font-size: 20px;
+	background-color: white;
+}
+.bottons{
+	float: left;
+	width: 149px;
+	height: 45px;
+	margin: 0 17px 20px 0;
+	font-size: 20px;
+}

@@ -1,0 +1,39 @@
+.big{
+	margin: 0 auto;
+	width: 440px;
+	height: 440px;
+/*	background-color: blue;*/
+}
+
+.first{
+	float: left;
+	margin: 0 0 0 0;
+	width:100px;
+	height:100px;
+	background-color:#C3C1C6;
+	border:5px solid black;
+}
+.second{
+	float: left;
+	margin: 0 0 0 0;
+	width:100px;
+	height:100px;
+	background-color:#C3C1C6;
+	border:5px solid black;
+}
+.third{
+	float: left;
+	margin: 0 0 0 0;
+	width:100px;
+	height:100px;
+	background-color:#C3C1C6;
+	border:5px solid black;
+}
+.forth{
+	float: left;
+	margin: 0 0 0 0;
+	width:100px;
+	height:100px;
+	background-color:#C3C1C6;
+	border:5px solid black;
+}
